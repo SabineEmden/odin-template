@@ -55,3 +55,9 @@ h5,
 h6 {
   text-wrap: balance;
 }
+
+/* Footer */
+.attribution {
+  font-size: 0.75rem; /* 0.75 * 16px = 12px */
+  text-align: center;
+}
